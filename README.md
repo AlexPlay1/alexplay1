@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[WPLACE Automatic color picker](https://github.com/AlexPlay1/wplace-autopicker)
-
 <!--
 **alexplay1/alexplay1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
